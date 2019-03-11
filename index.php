@@ -30,7 +30,7 @@
 <body>
 	<form method="post">
 	
-	<div class="container-login100" style="background-image: url('images/SIGMA_10514_PKR_naval_frigate_TNI_AL.jpg');">
+	<div class="container-login100" style="background-image: url('images/dislitbangal.png');">
 		<div class="wrap-login100 p-l-55 p-r-55 p-t-80 p-b-30">
 			<form class="login100-form validate-form" method="post">
 				<span class="login100-form-title p-b-37">
